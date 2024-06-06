@@ -1,0 +1,10 @@
+[06/05/2024 07:52:32] [Init             ] Initialized SDL2 v2.0.9 (v2009)
+[06/05/2024 07:52:32] [Init             ] Initialized SDL_Net v2.0.1 (v2001)
+[06/05/2024 07:52:37] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
+[06/05/2024 07:52:38] [Mod/NPCTable     ] Loaded 420 NPC functions.
+[06/05/2024 07:52:38] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
+[06/05/2024 07:52:38] [Mod              ] Loading mod "Cavestory Multiplayer" by Pixel / Clay (v1.0.0.0)
+[06/05/2024 07:52:39] [ResourceManager  ] 08ERROR: GameResource::LoadFromFile() - Failed to load "C:/Users/23jujohnsonidehen/Downloads/cav/data/Stage/StreamTest.pxcm": ("File does not exist")
+[06/05/2024 07:52:39] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/GuiStyle.cfg"
+[06/05/2024 07:52:39] [Mod              ] Loaded game DLL "C:/Users/23jujohnsonidehen/Downloads/cav/data/data.dll".
+[06/05/2024 07:52:40] [GuiStyle         ] Loading style configuration file "C:/Users/23jujohnsonidehen/Downloads/cav/data/Language/English/textloc.cfg"
